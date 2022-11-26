@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-double h(const double x, const double y);
+double h(const double x, const double y); // .
 int main()
 {
 	double p, q;
